@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&family=Montserrat:wght@200&family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&family=Satisfy&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+body{
+    background-color: #C8C6C6;
+}
+.containerone{
+        margin: auto;
+        background-color:#4B6587;;
+        width: 900px;
+        height: 730px;
+        display: flex;
+        justify-content: center;
+        box-shadow: -30px 0px 20px rgb(137, 183, 245) ,
+                    30px 0px 20px rgb(165, 197, 247);
+    
+}
+.word{
+    display: flex;
+    width: 1000px;
+    height: 710px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+    flex-direction: column;
+   
+    background-color: #F0E5CF;
+   
+
+}
+.c{
+    font-family:'Merriweather', serif;
+}
+
+
+h1{
+    text-align: center;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    color: lightsalmon;
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+.me_img{
+    background-position: center;
+   margin-top: 200px;
+   padding-left: 90px;
+    width: 50%;
+    
+  
+}
+
+a{
+    text-decoration: none;
+}
